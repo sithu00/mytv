@@ -23,3 +23,5 @@ http://supersonictv.live:8080/439090/246943/83900
 http://supersonictv.live:8080/439090/246943/86263
 #EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",BEIN SPORT3
 http://supersonictv.live:8080/439090/246943/86264
+#EXTINF:-1 group-title="MYANMAR CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Logo_of_MRTV-4.png",MRTV-4
+https://sithu00.github.io/mytv/mrtv4.m3u8

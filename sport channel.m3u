@@ -19,6 +19,8 @@ http://supersonictv.live:8080/439090/246943/83898
 http://supersonictv.live:8080/439090/246943/83899
 #EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://okteve.com/wp-content/uploads/media/0c13643a502908d2e242725433a43f3a-196x126.jpeg",DIGI SPORT4
 http://supersonictv.live:8080/439090/246943/83900
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/220px-BeIN-Sports-Logo.svg.png",BEIN SPORT1
+http://sansat.net:88/live/02028725529208/0978cdfbc9375f69/60960.ts
 #EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports2-logo-freelogovectors.net_-640x360.png",BEIN SPORT2
 http://supersonictv.live:8080/439090/246943/86263
 #EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",BEIN SPORT3
@@ -44,5 +46,5 @@ http://supersonictv.live:8080/439090/246943/84978
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/ESPN_Extra_2018.svg/revision/latest/scale-to-width-down/250?cb=20240215122153",ESPN EXTRA
 http://supersonictv.live:8080/439090/246943/84980
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ESPN_Brasil_logo.svg",ESPN BRAZIL
-
+http://supersonictv.live:8080/439090/246943/84979
 

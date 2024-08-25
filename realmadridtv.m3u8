@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8

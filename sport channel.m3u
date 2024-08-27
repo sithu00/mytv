@@ -31,6 +31,8 @@ http://supersonictv.live:8080/439090/246943/86264
 https://sithu00.github.io/mytv/mrtv4.m3u8
 #EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://cdn.bein.net/us/wp-content/uploads/2016/05/beIN-Sports-logo-4-1024x389.png",BEIN SPORT4
 http://supersonictv.live:8080/439090/246943/86265
+#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png",BEIN SPORT EXTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/BeIN_Sports_max_1_4k.png",BEIN SPORT MAX1
 http://supersonictv.live:8080/439090/246943/86266
 #EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/BeIN_Sports_max_2_4k.png",BEIN SPORT MAX2

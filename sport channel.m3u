@@ -24,12 +24,8 @@ http://sansat.net:88/live/02028725529208/0978cdfbc9375f69/60960.ts
 #EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports2-logo-freelogovectors.net_-640x360.png",BEIN SPORT2
 http://supersonictv.live:8080/439090/246943/86263
 http://sansat.net:88/live/02028725529208/0978cdfbc9375f69/60961.ts
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-DF38CDADF6-seeklogo.com.png" group-title="SPORTS",BeIN Sports (SHD) US,
-http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3706
 #EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",BEIN SPORT3
 http://supersonictv.live:8080/439090/246943/86264
-#EXTINF:-1 group-title="MYANMAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Logo_of_MRTV-4.png",MRTV-4
-https://sithu00.github.io/mytv/mrtv4.m3u8
 #EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://cdn.bein.net/us/wp-content/uploads/2016/05/beIN-Sports-logo-4-1024x389.png",BEIN SPORT4
 http://supersonictv.live:8080/439090/246943/86265
 #EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png",BEIN SPORT EXTRA
@@ -56,3 +52,5 @@ http://supersonictv.live:8080/439090/246943/84979
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://seeklogo.com/images/R/real-madrid-c-f-logo-C08F61D801-seeklogo.com.png",REAL MADRID TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="MYANMAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Logo_of_MRTV-4.png",MRTV-4
+https://sithu00.github.io/mytv/mrtv4.m3u8

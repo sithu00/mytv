@@ -1,44 +1,45 @@
 #EXTM3U 
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/A_Spor_logosu.png/revision/latest?cb=20200824093625",A SPOR
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/A_Spor_logosu.png/revision/latest?cb=20200824093625",A SPOR
 http://supersonictv.live:8080/439090/246943/86297
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://seeklogo.com/images/T/ttnet-tivibu-logo-E2960601D7-seeklogo.com.png",TIVIBU
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://seeklogo.com/images/T/ttnet-tivibu-logo-E2960601D7-seeklogo.com.png",TIVIBU
 http://supersonictv.live:8080/439090/246943/86299
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TRT_Spor_logo_(2022).svg",TRT SPOR
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TRT_Spor_logo_(2022).svg",TRT SPOR
 http://supersonictv.live:8080/439090/246943/86302
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Telekom_Sport_1_(2017).svg/revision/latest/scale-to-width-down/300?cb=20210614123901",TELECOM SPORT1
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Telekom_Sport_1_(2017).svg/revision/latest/scale-to-width-down/300?cb=20210614123901",TELECOM SPORT1
 http://supersonictv.live:8080/439090/246943/83964
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Telekom_Sport_2_(2017).svg/revision/latest/scale-to-width-down/300?cb=20210614125427",TELEKOM SPORT2
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Telekom_Sport_2_(2017).svg/revision/latest/scale-to-width-down/300?cb=20210614125427",TELEKOM SPORT2
 http://supersonictv.live:8080/439090/246943/83965
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Telekom_Sport_3_(2017).svg/revision/latest/scale-to-width-down/300?cb=20210614130538",TELEKOM SPORT3
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Telekom_Sport_3_(2017).svg/revision/latest/scale-to-width-down/300?cb=20210614130538",TELEKOM SPORT3
 http://supersonictv.live:8080/439090/246943/83966
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://www.coolstreaming.us/img/ch/image24452744424.webp",DIGI SPORT1
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://www.coolstreaming.us/img/ch/image24452744424.webp",DIGI SPORT1
 http://supersonictv.live:8080/439090/246943/83897
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://www.coolstreaming.us/img/ch/image39730317658.jpg",DIGI SPORT2
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://www.coolstreaming.us/img/ch/image39730317658.jpg",DIGI SPORT2
 http://supersonictv.live:8080/439090/246943/83898
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="a o",DIGI SPORT3
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="a o",DIGI SPORT3
 http://supersonictv.live:8080/439090/246943/83899
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://okteve.com/wp-content/uploads/media/0c13643a502908d2e242725433a43f3a-196x126.jpeg",DIGI SPORT4
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://okteve.com/wp-content/uploads/media/0c13643a502908d2e242725433a43f3a-196x126.jpeg",DIGI SPORT4
 http://supersonictv.live:8080/439090/246943/83900
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png",BEIN SPORT1
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png",BEIN SPORT1
 http://sansat.net:88/live/02028725529208/0978cdfbc9375f69/60960.ts
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports2-logo-freelogovectors.net_-640x360.png",BEIN SPORT2 HD
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports2-logo-freelogovectors.net_-640x360.png",BEIN SPORT2 HD
 http://supersonictv.live:8080/439090/246943/86263
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png",BEIN SPORT2
 http://sansat.net:88/live/02028725529208/0978cdfbc9375f69/60961.ts
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png",BEIN SPORT3
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png",BEIN SPORT3
 http://supersonictv.live:8080/439090/246943/86264
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-4-turkey.png",BEIN SPORT4 HD
 http://supersonictv.live:8080/439090/246943/86265
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-4-turkey.png",BEIN SPORT4
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-4-turkey.png",BEIN SPORT4
 http://sansat.net:88/live/02028725529208/0978cdfbc9375f69/60967.ts
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658",BEIN SPORT EXTRA
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658",BEIN SPORT EXTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/BeIN_Sports_max_1_4k.png",BEIN SPORT MAX1
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/BeIN_Sports_max_1_4k.png",BEIN SPORT MAX1
 http://supersonictv.live:8080/439090/246943/86266
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/BeIN_Sports_max_2_4k.png",BEIN SPORT MAX2
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/BeIN_Sports_max_2_4k.png",BEIN SPORT MAX2
 http://supersonictv.live:8080/439090/246943/86267
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://m.canli.mobi/kanallar/bein-sports-haber.png",BEIN SPORT HABER
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://m.canli.mobi/kanallar/bein-sports-haber.png",BEIN SPORT HABER
 http://supersonictv.live:8080/439090/246943/86268
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://seeklogo.com/images/E/eurosport-logo-0280052B0F-seeklogo.com.png",EURO SPORT1
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://seeklogo.com/images/E/eurosport-logo-0280052B0F-seeklogo.com.png",EURO SPORT1
 http://supersonictv.live:8080/439090/246943/86292
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://seeklogo.com/images/E/eurosport-2-logo-0A0C51E11E-seeklogo.com.png",EURO SPORT2
 http://supersonictv.live:8080/439090/246943/86293
@@ -50,9 +51,9 @@ http://supersonictv.live:8080/439090/246943/84978
 http://supersonictv.live:8080/439090/246943/84980
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ESPN_Brasil_logo.svg",ESPN BRAZIL
 http://supersonictv.live:8080/439090/246943/84979
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://cdn.livesoccertv.com/images/teams/england/logos/manchester-united.png",MUTV
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://cdn.livesoccertv.com/images/teams/england/logos/manchester-united.png",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://seeklogo.com/images/R/real-madrid-c-f-logo-C08F61D801-seeklogo.com.png",REAL MADRID TV
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://seeklogo.com/images/R/real-madrid-c-f-logo-C08F61D801-seeklogo.com.png",REAL MADRID TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-#EXTINF:-1 group-title="MYANMAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Logo_of_MRTV-4.png",MRTV-4
+#EXTINF:-1 group-title="MYANMAR CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Logo_of_MRTV-4.png",MRTV-4
 https://sithu00.github.io/mytv/mrtv4.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/A_Spor_logosu.png/revision/latest?cb=20200824093625",A SPOR
 http://supersonictv.live:8080/439090/246943/86297
-#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo=https://www.logotypes101.com/logos/49/DA005BF195778D360D0A81DDEB4CA2A5/ttnettivibu_Converted.png",TIVIBU
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://www.logotypes101.com/logos/49/DA005BF195778D360D0A81DDEB4CA2A5/ttnettivibu_Converted.png",TIVIBU
 http://supersonictv.live:8080/439090/246943/86299
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/TRT_Spor_logo_(2021).svg/revision/latest/scale-to-width-down/300?cb=20210718172744",TRT SPOR
 http://supersonictv.live:8080/439090/246943/86302

@@ -67,8 +67,6 @@ http://supersonictv.live:8080/439090/246943/84980
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://seeklogo.com/images/R/real-madrid-c-f-logo-C08F61D801-seeklogo.com.png",REAL MADRID TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-#EXTINF:-1 group-title="MYANMAR CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Logo_of_MRTV-4.png",MRTV-4
-https://sithu00.github.io/mytv/mrtv4.m3u8
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg",DUBAI SPORTS HD 
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV +" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="SPORT CHANNELS",SPORT TV+, 
@@ -89,3 +87,5 @@ http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2337 
 http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2336 
 #EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo-300x300.png" group-title="SPORT CHANNELS",TNT SPORT2 HD UK
 http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2326
+#EXTINF:-1 group-title="MYANMAR CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Logo_of_MRTV-4.png",MRTV-4
+https://sithu00.github.io/mytv/mrtv4.m3u8

@@ -83,3 +83,9 @@ http://premiumiptvmk.com:8080/F19236/516c41c7/1492
 http://premiumiptvmk.com:8080/F19236/516c41c7/1495 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="SPORT CHANNELS",SPORT TV 6 
 http://premiumiptvmk.com:8080/F19236/516c41c7/281487
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORT CHANNEL",TNT SPORT 1 UK, 
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2337 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORT CHANNEL",TNT SPORT2 FHD UK
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2336 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORT CHANNEL",TNT SPORT2 HD UK, 
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2326

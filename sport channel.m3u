@@ -123,3 +123,5 @@ http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2336 
 http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2326
 #EXTINF:-1 group-title="MYANMAR CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Logo_of_MRTV-4.png",MRTV-4
 https://sithu00.github.io/mytv/mrtv4.m3u8
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",TRUE1
+https://live.95tv.live/channel/6/playlist.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android

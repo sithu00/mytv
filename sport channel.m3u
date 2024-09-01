@@ -163,11 +163,3 @@ https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
 https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",SETANTA SPORT 
 https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg", T Sports Live 02
-#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1725179619:KeyName=tsports-ed25519-01:Signature=tDm4GXdTCvnZZ_EzyaMoPTa-5VXuB07oWNN4oGPBDjyFeUbTweLKxJUzTD89LKTyD2bIJ7Qye4fKQwOltseACw"}
-https://live-cdn.tsports.com/live-02/index.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T Sports Live 01
-#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1725179619:KeyName=tsports-ed25519-01:Signature=tDm4GXdTCvnZZ_EzyaMoPTa-5VXuB07oWNN4oGPBDjyFeUbTweLKxJUzTD89LKTyD2bIJ7Qye4fKQwOltseACw"}
-https://live-cdn.tsports.com/live-01/index.m3u8

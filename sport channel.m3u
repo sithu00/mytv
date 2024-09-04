@@ -195,7 +195,7 @@ http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31601/index.m3u8
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31602/index.m3u8
 #EXTINF:-1 group-title="Arena TV" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-03.png",Arena Sport3
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31603/index.m3u8
-#EXTINF:-1 group-title="Arena TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Arena_Sport_4_2010.png/revision/latest?cb=20210613162022",Arena Sport4
+#EXTINF:-1 group-title="Arena TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Arena_Sport_4.png/revision/latest/scale-to-width-down/300?cb=20210319044553",Arena Sport4
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31605/index.m3u8
 #EXTINF:-1 group-title="Arena TV" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-05.png",Arena Sport5
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31606/index.m3u8
@@ -203,4 +203,6 @@ http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31606/index.m3u8
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31607/index.m3u8
 #EXTINF:-1 group-title="Arena TV" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-07.png",Arena Sport7
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31608/index.m3u8
+#EXTINF:-1 group-title="Arena TV" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-08.png",Arena Sport8
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31609/index.m3u8
+

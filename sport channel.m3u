@@ -183,3 +183,5 @@ https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
 https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",SETANTA SPORT 
 https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
+#EXTINF:-1 group-title="Arena TV" tvg-logo="https://www.google.com/search?q=arena+premium+1+logo&client=ms-android-xiaomi-rev1&sca_esv=c7a01837b1eb8e0f&hl=en-US&tbm=isch&sxsrf=ADLYWIJCaRbvYpbYW4bQfKJEAxTNM0ublA:1725450432452&source=lnms&sa=X&ved=0ahUKEwji_-ngm6mIAxXRUGwGHdt5PboQ_AUIBigB&biw=393&bih=658#",Arena1 premium
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31599/index.m3u8

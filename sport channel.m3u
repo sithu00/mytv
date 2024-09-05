@@ -180,7 +180,9 @@ http://myteve.online:8080//F24423/cebfcaac/162591
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",SETANTA SPORT
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31754/index.m3u8
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31755/index.m3u8
-#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",SETANTA SPORT
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",SETANTA SPORT+
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31756/index.m3u8
+
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",SETANTA SPORT1
 https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",SETANTA SPORT2

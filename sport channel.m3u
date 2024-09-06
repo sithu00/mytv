@@ -128,6 +128,16 @@ http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/234/index.m3u8
 http://supersonictv.live:8080/439090/246943/84979
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN
 http://209.45.20.210:50001/play/a00b/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN 2
+http://209.45.20.210:50001/play/a008/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN 5
+http://209.45.20.210:50001/play/a00v/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN 6
+http://209.45.20.210:50001/play/a00h/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN 7
+http://209.45.20.210:50001/play/a00w/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN Premium
+http://209.45.20.210:50001/play/a02p/index.m3u8
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN2
 http://supersonictv.live:8080/439090/246943/84981
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN3

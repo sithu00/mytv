@@ -1,4 +1,20 @@
 #EXTM3U 
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",SETANTA SPORT
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31754/index.m3u8
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31755/index.m3u8
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",SETANTA SPORT+
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31756/index.m3u8
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31757/index.m3u8
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",SETANTA SPORT1
+https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",SETANTA SPORT2
+https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",SETANTA SPORT 
+https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://tinypic.host/images/2024/09/06/Qazsport_logo.png",QAZ Sport
+https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://tinypic.host/images/2024/09/06/sport-logo-c.png",Viju+ Sport
+https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/A_Spor_logosu.png/revision/latest?cb=20200824093625",A SPOR
 http://supersonictv.live:8080/439090/246943/86297
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://tinypic.host/images/2024/09/05/Ttnet-Tivibu-01.png",TIVIBU

@@ -196,12 +196,6 @@ http://premiumiptvmk.com:8080/F19236/516c41c7/1492
 http://premiumiptvmk.com:8080/F19236/516c41c7/1495 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6" tvg-logo="https://marketeer.sapo.pt/wp-content/uploads/2021/07/spor-tv.jpg" group-title="SPORT CHANNELS",SPORT TV 6 
 http://premiumiptvmk.com:8080/F19236/516c41c7/281487
-#EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo-300x300.png" group-title="SPORT CHANNELS",TNT SPORT 1 UK
-http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2337 
-#EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo-300x300.png" group-title="SPORT CHANNELS",TNT SPORT2 FHD UK
-http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2336 
-#EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo-300x300.png" group-title="SPORT CHANNELS",TNT SPORT2 HD UK
-http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2326
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo-300x300.png",TNT Sport1
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/19051/index.m3u8
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo-300x300.png",TNT Sport2
@@ -214,18 +208,6 @@ http://209.45.20.210:50001/play/a02p/index.m3u8
 https://sithu00.github.io/mytv/mrtv4.m3u8
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",TRUE1
 http://myteve.online:8080//F24423/cebfcaac/162591
-#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",SETANTA SPORT
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31754/index.m3u8
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31755/index.m3u8
-#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",SETANTA SPORT+
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31756/index.m3u8
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31757/index.m3u8
-#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",SETANTA SPORT1
-https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
-#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",SETANTA SPORT2
-https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
-#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",SETANTA SPORT 
-https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
 #EXTINF:-1 group-title="Arena TV" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a1p.png",Arena1 premium
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31599/index.m3u8
 #EXTINF:-1 group-title="Arena TV" tvg-logo="https://arenacloudtv.com/shared/assets/images/channel-list/Arena_Sport_1x2.png",Arena Sport1×2

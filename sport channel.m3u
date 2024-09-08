@@ -12,6 +12,10 @@ https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
 https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/setanta-logo.png",Setanta Sport
 https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
+#EXTINF:-1 tvg-name="Sony Ten1" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" tvg-id="Sony Ten.so" group-title="Sony Sport",Sony Ten1
+https://nowsports.in/sliv/stream.php?id=7541236|Referer=https://nowsports.in/sliv/&key=Himel-Op
+#EXTINF:-1 tvg-name="Sony Ten2" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/sony_ten_2_india.webp" tvg-id="Sony Ten.so" group-title="Sony Sport",Sony Ten2
+https://nowsports.in/sliv/stream.php?id=7541236|Referer=https://nowsports.in/sliv/&key=Himel-Op
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://tinypic.host/images/2024/09/06/Qazsport_logo.png",QAZ Sport
 https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://tinypic.host/images/2024/09/06/sport-logo-c.png",Viju+ Sport

@@ -1,61 +1,31 @@
 #EXTM3U 
-#EXTINF:-1,BEIN SPORTS 1 SD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/127184
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/9480
-#EXTINF:-1,BEIN SPORTS 1 FHD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/192818
-#EXTINF:-1,BEIN SPORTS 1 4K
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/192818
-#EXTINF:-1,BEIN SPORTS 2 SD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/127185
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/13371
-#EXTINF:-1,BEIN SPORTS 2 FHD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193636
-#EXTINF:-1,BEIN SPORTS 2 4K
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193636
-#EXTINF:-1,BEIN SPORTS 3 SD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/127186
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/9484
-#EXTINF:-1,BEIN SPORTS 3 FHD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193637
-#EXTINF:-1,BEIN SPORTS 3 FHD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193637
-#EXTINF:-1,BEIN SPORTS 4 SD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/127187
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/9486
-#EXTINF:-1,BEIN SPORTS 4 FHD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193638
-#EXTINF:-1,BEIN SPORTS 5 SD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/127188
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/33269
-#EXTINF:-1,BEIN SPORTS 5 FHD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193639
-#EXTINF:-1,BEIN SPORTS 6 SD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/127189
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/9490
-#EXTINF:-1,BEIN SPORTS 6 FHD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193640
-#EXTINF:-1,BEIN SPORTS 7 SD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/127190
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/9492
-#EXTINF:-1,BEIN SPORTS 7 FHD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193641
-#EXTINF:-1,BEIN SPORTS 8 SD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/127191
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/9494
-#EXTINF:-1,BEIN SPORTS 8 FHD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193642
-#EXTINF:-1,BEIN SPORTS 9 SD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/127192
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/9496
-#EXTINF:-1,BEIN SPORTS 9 FHD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193643
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
+http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/760119.m3u8
+#EXTINF:-1,SKY SPORT PREMIER LEAGUE FHD50fps
+http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/760102.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
+http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/760104.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE SD
+http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/760105.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL FHD
+http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/761401.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL FHD50fps
+http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/760078.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL FHD25fps
+http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/760079.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL HD
+http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/760080.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL SD
+http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/760081.m3u8
+#EXTINF:-1,SKY SPORTS BUNDESHLIGA UHD
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86292
+#EXTINF:-1,PREMIER SPORT 1 FHD
+http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/879832.m3u8
+#EXTINF:-1,PREMIER SPORTS 2 UHD
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
+#EXTINF:-1,PREMIER SPORT 2 FHD
+http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/879833.m3u8
+#EXTINF:-1,PREMIER SPORTS 2 FHD50fps
+http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/879833.m3u8
+#EXTINF:-1,PREMIER SPORTS 2 HD
+http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/879830.m3u8

@@ -172,8 +172,8 @@ http://209.45.20.210:50001/play/a00h/index.m3u8
 http://209.45.20.210:50001/play/a00w/index.m3u8
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN Premium
 http://209.45.20.210:50001/play/a02p/index.m3u8
-#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN2
-http://supersonictv.live:8080/439090/246943/84981
+#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN 1
+http://myteve.online:8080//F24423/cebfcaac/8793
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN3
 http://supersonictv.live:8080/439090/246943/84978
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN6

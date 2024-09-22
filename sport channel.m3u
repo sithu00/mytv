@@ -86,7 +86,7 @@ http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/161722
 #EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein sports1 HD
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=59306&extension=m3u8
 #EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",bein sports2 HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/13371
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=59307&extension=m3u8
 #EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",bein sports2 ENG HD
 http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/132020
 #EXTINF:-1 group-title="BEIN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",bein sports3 HD

@@ -53,8 +53,8 @@ http://ktv.im:8080/live/678900/678900/49598.m3u8
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=192753&extension=m3u8
 #EXTINF:-1 group-title="BEIN SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",bein sports 2 FHD
 http://ktv.im:8080/live/678900/678900/49599.m3u8
-#EXTINF:-1 group-title="BEIN SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",bein sports 3 SD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/161715
+#EXTINF:-1 group-title="BEIN SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",bein sports 3 SD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=192752&extension=m3u8
 #EXTINF:-1 group-title="BEIN SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",bein sports 3 FHD
 http://ktv.im:8080/live/678900/678900/49600.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",bein sport 4 SD

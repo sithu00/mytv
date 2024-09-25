@@ -71,6 +71,8 @@ http://1.1usd.tv:34000/ch230/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktd
 http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/161717
 #EXTINF:-1 group-title="BEIN SPORTS SD" tvg-logo="https://www.nowtv.now.com/media/logo/645-wbg-c.png",bein sports 5 FHD
 http://ktv.im:8080/live/678900/678900/49602.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS SD" tvg-logo="https://www.nowtv.now.com/media/logo/645-wbg-c.png",bein sports 5 FHD
+http://1.1usd.tv:34000/ch231/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIkx0UtxtRbYgnb6ugLb14XmJdLwvJQhCqPAVvATutK3
 #EXTINF:-1 group-title="BEIN SPORTS SD" tvg-logo="https://www.nowtv.now.com/media/logo/645-wbg-c.png",bein sports 6 SD
 http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/161718
 #EXTINF:-1 group-title="BEIN SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports 6 FHD

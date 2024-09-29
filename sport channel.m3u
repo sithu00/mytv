@@ -159,16 +159,10 @@ http://supersonictv.live:8080/439090/246943/86266
 http://supersonictv.live:8080/439090/246943/86267
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_(2017).png",bein sports haber
 http://supersonictv.live:8080/439090/246943/86268
-#EXTINF:-1 tvg-logo="https://tinypic.host/images/2024/09/05/Eurosport_HD_since_2015.png" group-title="SPORT CHANNELS",EURO SPORT1 UK
+#EXTINF:-1 tvg-logo="https://tinypic.host/images/2024/09/05/Eurosport_HD_since_2015.png" group-title="SPORT CHANNELS",EURO SPORT 1
 http://103.97.89.234/eurosport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinypic.host/images/2024/09/05/Eurosport_2_Logo_2015.svg.png" group-title="SPORT CHANNELS",EURO SPORT 2 UK
-http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2285 
-#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://tinypic.host/images/2024/09/05/Eurosport_HD_since_2015.png",EURO SPORT1
-http://supersonictv.live:8080/439090/246943/86292
-#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://tinypic.host/images/2024/09/05/Eurosport_2_Logo_2015.svg.png",EURO SPORT2
-http://supersonictv.live:8080/439090/246943/86293
-#EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://tinypic.host/images/2024/09/05/Eurosport_2_Logo_2015.svg.png",EURO SPORT2 HD
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/234/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinypic.host/images/2024/09/05/Eurosport_2_Logo_2015.svg.png" group-title="SPORT CHANNELS",EURO SPORT 2 
+http://103.97.89.234/eurosport2/index.m3u8 
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN 
 http://103.97.89.234/espn/index.m3u8
 #EXTINF:-1 group-title="SPORT CHANNELS" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN 1

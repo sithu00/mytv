@@ -65,3 +65,5 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/105350.ts
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/299.ts
 #EXTINF:-1,STAR SPORT SELECT 2
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/300.ts
+#EXTINF:-1,SERIES A
+http://103.97.89.234/football1/index.m3u8

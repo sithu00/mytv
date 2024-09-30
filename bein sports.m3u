@@ -1,24 +1,9 @@
 #EXTM3U 
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE 
 http://line.megacdn.live:80/6491971071/5850946568/79117
-#EXTINF:-1,SKY SPORT PREMIER LEAGUE FHD50fps
-http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/760102.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
-http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/760104.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE SD
-http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/760105.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL FHD
-http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/761401.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL FHD50fps
-http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/760078.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL FHD25fps
-http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/760079.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL HD
-http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/760080.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL SD
-http://piwy.bounceme.net:8080/live/dave@prosportphysio.com/JALUAFugpp/760081.m3u8
-#EXTINF:-1,SKY SPORTS BUNDESHLIGA UHD
-http://apptv.xyz:80/alia4remz/rrynDeBGS/86292
+#EXTINF:-1,SKY SPORTS FOOTBALL 
+http://1.1usd.tv:34000/ch314/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMlOW5J3ZJHG2xmQexyVgVqp5aGuWA1cyfoUvM9kp5AG
+#EXTINF:-1,SKY SPORTS BUNDESHLIGA
 http://line.megacdn.live:80/6491971071/5850946568/29201
 #EXTINF:-1,TNT 1
 http://user.scalecdn.co:8080/live/DrReaper012/01ef1649eb/2337.ts

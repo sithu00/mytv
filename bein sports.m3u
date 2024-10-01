@@ -59,5 +59,7 @@ http://103.97.89.234/football1/index.m3u8
 http://103.97.89.234/football2/index.m3u8
 #EXTINF:-1,LALIGA TV 2
 http://103.97.89.234/match/index.m3u8
+#EXTINF:-1,BEIN SPORTS 1
+http://ru.seetv.cc/play/1101/EF48F539F8582E2/video.m3u8
 #EXTINF:-1,BEIN SPORTS 2
 http://ru.seetv.cc/play/1102/EF48F539F8582E2/video.m3u8

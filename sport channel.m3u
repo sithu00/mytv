@@ -50,7 +50,7 @@ http://1.1usd.tv:34000/ch227/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktd
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein sport 1 SD
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=192754&extension=m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein sport1 FHD
-http://ktv.im:8080/live/678900/678900/49598.m3u8
+http://30f247f9.edmonst.net/iptv/FTXT5WEPVSHHWZ/6123/index.m3u8
 EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",bein sport 2 SD
 
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",bein sports 2 FHD

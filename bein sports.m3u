@@ -63,6 +63,8 @@ http://1.1usd.tv:34000/ch062/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktd
 http://1.1usd.tv:34000/ch2124/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdM_CGIoP33v2ABqI4xnSaRKBnXuoGHm4aCx2eLdjswUU
 #EXTINF:-1,LALIGA TV 2
 http://103.97.89.234/match/index.m3u8
+#EXTINF-1,BUNDESHLIGA TV
+http://1.1usd.tv:34000/ch063/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdA0dg4OOYY8vNvcSL8TqwOEh2tlj5mgwmj9fLF7aA2dO
 #EXTINF:-1,BEIN SPORTS 1
 http://ru.seetv.cc/play/1101/EF48F539F8582E2/video.m3u8
 #EXTINF:-1,BEIN SPORTS 2

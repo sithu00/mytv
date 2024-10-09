@@ -76,50 +76,6 @@ http://wps5c7yt.rostelekom.xyz/iptv/K5W5SPPKUKKMPP/2500/index.m3u8
 http://wps5c7yt.rostelekom.xyz/iptv/K5W5SPPKUKKMPP/6133/index.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",bein sports3 HD
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=59308&extension=m3u8
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=192752&extension=m3u8
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",bein sports4 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=192764&extension=m3u8
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=59311&extension=m3u8
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports4 ENG HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/9488
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://www.nowtv.now.com/media/logo/645-wbg-c.png",bein sports5 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=59310&extension=m3u8
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports6 HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/9490
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports7 HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/9492
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports7+ HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/33267
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports8 HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/9494
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports9 HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/9496
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports1 4K
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/192818
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports1 FRA 4K
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/936487
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sport2 4K
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193636
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports2 FRA 4K
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/936485
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports3 4K
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193637
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports3 FRA 4K
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/936486
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports3 ENG 4K
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193644
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",bein sports4 4K
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193638
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://www.nowtv.now.com/media/logo/645-wbg-c.png",bein sports5 4K
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193639
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports6 4K
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193640
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports7 4K
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193641
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports8 4K
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193642
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports9 4K
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193643
 #EXTINF:-1group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein sport xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein sport xtra1 4K

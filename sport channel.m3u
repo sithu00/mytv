@@ -33,21 +33,21 @@ http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/2538/index.m3u8
 http://1.1usd.tv:34000/ch227/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMU09awDflXDHhh_5rETC-cTIlawPNdzBBtCV1bTbI93
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein sports HD
 http://1.1usd.tv:34000/ch227/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMU09awDflXDHhh_5rETC-e_dVxKO5QNDHfSts5KNQgl
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_-640x360.png",bein sport 1 SD
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_-640x360.png",bein sports 1 SD
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=192754&extension=m3u8
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://tinypic.host/images/2024/10/09/bein-sports1-logo-freelogovectors.net__copy_4096x2304.png",bein sport1 FHD
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://tinypic.host/images/2024/10/09/bein-sports1-logo-freelogovectors.net__copy_4096x2304.png",bein sports1 FHD
 http://1.1usd.tv:34000/ch227/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMU09awDflXDHhh_5rETC-e_dVxKO5QNDHfSts5KNQgl
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports2-logo-freelogovectors.net_-640x360.png",bein sports 2 FHD
 http://1.1usd.tv:34000/ch228/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK3GRXOTHML-Uv1NwEUyh0s0DCeW_ZIM0WtCFbixDq0z
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",bein sport 2 HD
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports2-logo-freelogovectors.net_-640x360.png",bein sports 2 HD
 http://1.1usd.tv:34000/ch228/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK3GRXOTHML-Uv1NwEUyh0s0DCeW_ZIM0WtCFbixDq0z
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",bein sports 3 SD
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports3-logo-freelogovectors.net_-640x360.png",bein sports 3 SD
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=192752&extension=m3u8
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",bein sports 3 HD
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports3-logo-freelogovectors.net_-640x360.png",bein sports 3 HD
 http://1.1usd.tv:34000/ch229/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO_JESnnGWLZymSHJgVfwOOvN7KZQBjhDpGdgRLBL9zW
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",bein sports 3 FHD
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports3-logo-freelogovectors.net_-640x360.png",bein sports 3 FHD
 http://1.1usd.tv:34000/ch229/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO_JESnnGWLZymSHJgVfwOOvN7KZQBjhDpGdgRLBL9zW
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",bein sport 4 SD
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",bein sports 4 SD
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=192751&extension=m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",bein sports 4 FHD
 http://1.1usd.tv:34000/ch230/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK4DU8pTR06fZiJPOT1fp6jf_sUJhcs41DzYO2LOb5t3
@@ -63,29 +63,29 @@ http://1.1usd.tv:34000/ch232/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktd
 http://1.1usd.tv:34000/ch232/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBblXvY1eHekJBttVX-GhOMnS7_N09PQyNEgP0ZJaHaa
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports 7 HD
 http://ktv.im:8080/live/678900/678900/49604.m3u8
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports8 HD
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports 8 HD
 http://ktv.im:8080/live/678900/678900/49605.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports 9
 http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/127192
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein sports1 HD FR
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein sports 1 HD FR
 http://wps5c7yt.rostelekom.xyz/iptv/K5W5SPPKUKKMPP/2499/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",bein sports2 HD FR
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",bein sports 2 HD FR
 http://wps5c7yt.rostelekom.xyz/iptv/K5W5SPPKUKKMPP/2500/index.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",bein sports 2 ENG HD
 http://wps5c7yt.rostelekom.xyz/iptv/K5W5SPPKUKKMPP/6133/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",bein sports3 HD
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",bein sports 3 HD
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=59308&extension=m3u8
 #EXTINF:-1group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein sport xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein sport xtra1 4K
+#EXTINF:-1group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein sport xtra 1 4K
 http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/936490
-#EXTINF:-1group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein sport xtra2 4K
+#EXTINF:-1group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein sport xtra 2 4K
 http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/936491
-#EXTINF:-1group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein sport xtra3 4K
+#EXTINF:-1group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",Bein sport xtra 3 4K
 http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/193644
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png",bein sports max1
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png",bein sports max 1
 http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19062/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png",bein sports max2
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png",bein sports max 2
 http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19066/index.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_(2017).png",bein sports haber
 http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19064/index.m3u8

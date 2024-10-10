@@ -33,9 +33,9 @@ http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/2538/index.m3u8
 http://1.1usd.tv:34000/ch227/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMU09awDflXDHhh_5rETC-cTIlawPNdzBBtCV1bTbI93
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein sports HD
 http://1.1usd.tv:34000/ch227/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMU09awDflXDHhh_5rETC-e_dVxKO5QNDHfSts5KNQgl
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports1-logo-freelogovectors.net_-640x360.png",bein sports 1 SD
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",bein sports 1 SD
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=192754&extension=m3u8
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://tinypic.host/images/2024/10/09/bein-sports1-logo-freelogovectors.net__copy_4096x2304.png",bein sports1 FHD
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",bein sports1 FHD
 http://1.1usd.tv:34000/ch227/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMU09awDflXDHhh_5rETC-e_dVxKO5QNDHfSts5KNQgl
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports2-logo-freelogovectors.net_-640x360.png",bein sports 2 FHD
 http://1.1usd.tv:34000/ch228/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK3GRXOTHML-Uv1NwEUyh0s0DCeW_ZIM0WtCFbixDq0z

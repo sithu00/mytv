@@ -47,7 +47,7 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=192752&exte
 http://1.1usd.tv:34000/ch229/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO_JESnnGWLZymSHJgVfwOOvN7KZQBjhDpGdgRLBL9zW
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports3-logo-freelogovectors.net_-640x360.png",bein sports 3 FHD
 http://1.1usd.tv:34000/ch229/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO_JESnnGWLZymSHJgVfwOOvN7KZQBjhDpGdgRLBL9zW
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",bein sports 4 SD
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMN23kqogNdIm2aV1y_WWpBhtcN8DjODPuvA&usqp=CAU",bein sports 4 SD
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=192751&extension=m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",bein sports 4 FHD
 http://1.1usd.tv:34000/ch230/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK4DU8pTR06fZiJPOT1fp6jf_sUJhcs41DzYO2LOb5t3

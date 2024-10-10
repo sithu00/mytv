@@ -53,9 +53,9 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=192751&exte
 http://1.1usd.tv:34000/ch230/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK4DU8pTR06fZiJPOT1fp6jf_sUJhcs41DzYO2LOb5t3
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",bein sports 4 HD
 http://1.1usd.tv:34000/ch230/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK4DU8pTR06fZiJPOT1fp6jf_sUJhcs41DzYO2LOb5t3
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://tinypic.host/images/2024/10/10/beIN_SPORTS5_DIGITAL_Mono.png",bein sports 5 HD
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",bein sports 5 HD
 http://1.1usd.tv:34000/ch231/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIkx0UtxtRbYgnb6ugLb14XmJdLwvJQhCqPAVvATutK3
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://tinypic.host/images/2024/10/10/beIN_SPORTS5_DIGITAL_Mono.png",bein sports 5 FHD
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",bein sports 5 FHD
 http://1.1usd.tv:34000/ch231/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIkx0UtxtRbYgnb6ugLb14XmJdLwvJQhCqPAVvATutK3
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",bein sports 6 FHD
 http://1.1usd.tv:34000/ch232/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBblXvY1eHekJBttVX-GhOMnS7_N09PQyNEgP0ZJaHaa

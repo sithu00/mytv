@@ -33,8 +33,8 @@ http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/2538/index.m3u8
 http://1.1usd.tv:34000/ch227/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMU09awDflXDHhh_5rETC-cTIlawPNdzBBtCV1bTbI93
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",bein sports HD
 http://1.1usd.tv:34000/ch227/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMU09awDflXDHhh_5rETC-e_dVxKO5QNDHfSts5KNQgl
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",bein sports 1 SD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=192754&extension=m3u8
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",bein sports 1 HD
+http://ru.seetv.cc/play/1101/EF48F539F8582E2/video.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",bein sports1 FHD
 http://1.1usd.tv:34000/ch227/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMU09awDflXDHhh_5rETC-e_dVxKO5QNDHfSts5KNQgl
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",bein sports 2 FHD
